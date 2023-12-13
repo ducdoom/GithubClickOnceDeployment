@@ -7,8 +7,4 @@
     <OutputType>Exe</OutputType>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DatPhatAcc\" />
-  </ItemGroup>
-
 </Project>
