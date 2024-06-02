@@ -2,4 +2,5 @@
 *.application binary
 *.deploy binary
 *.appinstaller binary
+*.msix binary
 *  -text
