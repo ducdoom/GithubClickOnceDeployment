@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://raw.githubusercontent.com/ducdoom/GithubClickOnceDeployment/master/GithubClickOnceDeployment/App2/App2_x64.appinstaller"
-	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="file:///C:/Users/ducdoom/source/repos/ducdoom/GithubClickOnceDeployment/GithubClickOnceDeployment/App2/App2_x64.appinstaller"
+	Version="1.0.9.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="b9f2791e-715e-4ac7-b4fb-de77b664e4e1"
-		Version="1.0.5.0"
+		Version="1.0.9.0"
 		Publisher="CN=ducdoom"
-		Uri="https://raw.githubusercontent.com/ducdoom/GithubClickOnceDeployment/master/GithubClickOnceDeployment/App2/App2_1.0.5.0_x64_Debug_Test/App2_1.0.5.0_x64_Debug.msix"
+		Uri="file:///C:/Users/ducdoom/source/repos/ducdoom/GithubClickOnceDeployment/GithubClickOnceDeployment/App2/App2_1.0.9.0_x64_Test/App2_1.0.9.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.5"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://raw.githubusercontent.com/ducdoom/GithubClickOnceDeployment/master/GithubClickOnceDeployment/App2/App2_1.0.5.0_x64_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.5.msix"
+			Uri="file:///C:/Users/ducdoom/source/repos/ducdoom/GithubClickOnceDeployment/GithubClickOnceDeployment/App2/App2_1.0.9.0_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.5.msix"
 			Version="5001.119.156.0" />
 	</Dependencies>
 	<!-- Read more about updating settings with Package.appinstaller at https://docs.microsoft.com/windows/msix/app-installer/update-settings -->
